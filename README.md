@@ -1,8 +1,5 @@
 ## Project Demonstration
-<video width="600" controls loop>
-  <source src="assets/video.mp4" type="video/mp4">
-</video>
-
+![Project](https://vimeo.com/1050328928?share=copy)
 
 # Student Management System
 
