@@ -1,7 +1,6 @@
 ## Project Demonstration
 <video width="600" controls loop>
-  <source src="assets/video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+  <source src="assets/video.mp4" type="video/mp4">
 </video>
 
 
